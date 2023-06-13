@@ -1,0 +1,7 @@
+========== Section_PE32_image_AMITSE_AMITSE.sct ==========
+
+Security | FormId 0x2716 -> Advanced | FormId 0x2719
+Security | FormId 0x2716 -> Advanced | FormId 0x2719
+
+
+

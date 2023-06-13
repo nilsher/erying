@@ -1,0 +1,9 @@
+========== Section_PE32_image_AMITSE_AMITSE.sct ==========
+
+Security | FormId 0x2716 -> Advanced | FormId 0x2719
+Main | FormId 0x2711 -> Chipset | FormId 0x271A
+Main | FormId 0x2711 -> Chipset | FormId 0x271A
+Security | FormId 0x2716 -> Advanced | FormId 0x2719
+
+
+
